@@ -1,6 +1,8 @@
 \# EcoStream - Renewable Energy Generation Tracking System
 
+## Dashboard Preview
 
+![Dashboard](dashboard.png)
 
 \## Overview
 
